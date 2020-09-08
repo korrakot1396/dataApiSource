@@ -1,8 +1,8 @@
 {
   "banner": [
-    "http://tutofox.com/foodapp//banner/banner-1.jpg",
-    "http://tutofox.com/foodapp//banner/banner-2.jpg",
-    "http://tutofox.com/foodapp//banner/banner-3.png"
+    "https://raw.githubusercontent.com/korrakot1396/dataApiSource/master/banner/banner-1.jpg",
+    "https://raw.githubusercontent.com/korrakot1396/dataApiSource/master/banner/banner-2.jpg",
+    "https://raw.githubusercontent.com/korrakot1396/dataApiSource/master/banner/banner-3.jpg"
   ],
   "categories": [
     {
