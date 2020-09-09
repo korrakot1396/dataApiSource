@@ -9,25 +9,25 @@
       "id": 1,
       "name": "การเดินทาง",
       "color": "#fbc831",
-      "image": "http://tutofox.com/foodapp//categories/american.png"
+      "image": "https://raw.githubusercontent.com/korrakot1396/dataApiSource/master/categories/american.png"
     },
     {
       "id": 2,
       "name": "สมัครคนขับ",
       "color": "#9fd236",
-      "image": "http://tutofox.com/foodapp//categories/burger.png"
+      "image": "https://raw.githubusercontent.com/korrakot1396/dataApiSource/master/categories/burger.png"
     },
     {
       "id": 3,
       "name": "แผนที่",
       "color": "orange",
-      "image": "http://tutofox.com/foodapp//categories/pizza.png"
+      "image": "https://raw.githubusercontent.com/korrakot1396/dataApiSource/master/categories/pizza.png"
     },
     {
       "id": 4,
       "name": "คะแนนสะสม",
       "color": "#f2f2f2",
-      "image": "http://tutofox.com/foodapp//categories/drink.png"
+      "image": "https://raw.githubusercontent.com/korrakot1396/dataApiSource/master/categories/drink.png"
     }
   ],
   "food": [
